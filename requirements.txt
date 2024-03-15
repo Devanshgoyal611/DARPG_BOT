@@ -1,0 +1,14 @@
+tensorflow
+pytorch
+streamlit
+openai
+tqdm
+trl
+optimum
+accelerate
+auto-gptq
+nltk
+numpy
+pandas
+pillow
+pickle
